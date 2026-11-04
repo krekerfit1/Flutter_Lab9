@@ -1,17 +1,20 @@
-# slot_machine_fio
+# Лабораторная работа №9.
 
-A new Flutter project.
+* **Студент:** Истомин Максим
+* **Группа:** ИСП-243
+* **Дата:** 2.11.26
 
-## Getting Started
+## Что изучено
+* Разница между `StatelessWidget` и `StatefulWidget`.
+* Подключение и вывод картинок через `pubspec.yaml`.
+* Асинхронная логика анимации, задержками и проверкой.
+* Использование виджетов анимации.
 
-This project is a starting point for a Flutter application.
+## Скриншот приложения
+![Финал](img/Step_4_Istomin.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Запуск проекта
+```
+flutter pub get
+flutter run -d chrome
+```
