@@ -1,3 +1,4 @@
+// lib/slot_row.dart
 import 'package:flutter/material.dart';
 
 class SlotRow extends StatelessWidget {
